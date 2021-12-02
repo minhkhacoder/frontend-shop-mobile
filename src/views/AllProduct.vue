@@ -39,7 +39,7 @@
 <script>
 import { mapGetters } from "vuex";
 export default {
-  name: "Home",
+  name: "AllProduct",
   computed: {
     ...mapGetters(["products"]),
   },
